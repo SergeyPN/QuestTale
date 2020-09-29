@@ -11,9 +11,6 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"AllDesktop",
-		"IOS",
-		"MacNoEditor",
-		"WindowsNoEditor"
+		"IOS"
 	]
 }
