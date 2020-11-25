@@ -3,20 +3,9 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "QuestTale",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "SlateRemote",
-			"Enabled": true
-		},
-		{
-			"Name": "PaperFlipbookWidget",
 			"Enabled": true
 		}
 	],
