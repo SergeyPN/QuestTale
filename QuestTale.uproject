@@ -7,10 +7,6 @@
 		{
 			"Name": "SlateRemote",
 			"Enabled": true
-		},
-		{
-			"Name": "MultiUserClient",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
