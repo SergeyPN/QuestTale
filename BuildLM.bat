@@ -1,0 +1,1 @@
+"d:\EpicGames\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe" "d:\EpicGames\Projects\QuestTale\QuestTale.uproject" -run=resavepackages -buildlighting -quality=Production -allowcommandletrendering -map=MapLM
